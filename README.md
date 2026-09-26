@@ -455,7 +455,6 @@ Potential reduction in paper consumption and printing waste.
 This project demonstrates practical experience with:
 
 * Python
-* Data Engineering
 * Data Analysis
 * Machine Learning
 * Generative AI
@@ -498,7 +497,6 @@ Interested in:
 * Artificial Intelligence
 * Data Science
 * Agentic AI
-* Data Engineering
 * Business Intelligence
 * Sustainability Analytics
 
