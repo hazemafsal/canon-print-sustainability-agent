@@ -2,6 +2,7 @@ streamlit
 pandas
 numpy
 python-dotenv
-google-genai
-langgraph
 langchain
+langchain-google-genai
+langgraph
+pypdf
