@@ -1,0 +1,23 @@
+Sustainability Decision Framework
+
+Organizations should continuously identify opportunities to reduce unnecessary
+paper consumption, avoid repeated document printing, and encourage digital-first
+workflows where appropriate.
+
+Duplex printing should be considered where operationally appropriate.
+
+Color printing should be used when color provides meaningful business value.
+Organizations may review high color-print usage to identify opportunities for
+black-and-white alternatives.
+
+Repeated printing and failed print jobs should be monitored because they can
+indicate workflow inefficiencies or user errors.
+
+Sustainability recommendations should be reviewed by an appropriate human
+decision maker before operational implementation.
+
+Sustainability initiatives should be monitored after implementation to determine
+whether the intended improvement actually occurred.
+
+Metrics can include page volume, reprint rate, failed-print rate, color-print
+rate, paper consumption, energy consumption and estimated waste reduction.
